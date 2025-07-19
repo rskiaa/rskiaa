@@ -57,8 +57,8 @@ Git | GitHub | Power BI | VS Code | Jupyter | Linux | NVIDIA Drive OS
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ashutoshkumar-ai)
-- 📬 Email: ashutoshkumar.engineer@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/ashutoshrskiaa)
+- 📬 Email: ashutoshrskiaa@gmail.com
 - 🌐 Portfolio: [Gamma Site](https://autonomous-driving-innov-d7ai06c.gamma.site/ashutoshkumar)
 
 ---
