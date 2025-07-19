@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Ashutosh
-- Python|ML/AI
-<!---
-rskiaa/rskiaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Ashutosh
+🤖Senior Engineer with 3.5+ years of experience in robotics, autonomous systems, GenAI, and computer vision — building AI/ML solutions using Python and deep learning.
+
+- As a passionate engineer leading in ADAS and Autonomous Driving technologies, I bring over 3.5+ years of hands-on experience working on real-world systems that power the future of mobility. My contributions span the development and validation of Level 1–5 ADAS and V2X Robo Taxi systems, with a keen focus on scenario generation, test automation, and perception-prediction root cause analysis.
+My unique edge lies in blending automotive engineering with cutting-edge AI and Machine Learning. I hold multiple certifications in Python, Data Analysis, Generative AI, Machine Learning (PyTorch, Scikit-learn), and Computer Vision (OpenCV), actively applying this knowledge to design smarter, AI-enhanced testing frameworks for autonomous systems. I am driven to contribute to projects that push the boundaries of intelligent transportation, where software, AI, and safety converge to create impactful innovation.
