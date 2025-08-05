@@ -1,6 +1,6 @@
 # Hi, I'm Ashutosh Kumar 👋
 
-🚗 **ADAS & Autonomous Driving Engineer** | 🤖 **AI-Driven Innovator** | 🐍 **Python & Data Science**  
+🚗 **ADAS & Autonomous Driving Engineer** | 🤖 **AI-Driven Innovator** |  **Python & Data Science**  
 *Blending software, AI, and automotive engineering to drive the future of mobility.*
 
 ---
