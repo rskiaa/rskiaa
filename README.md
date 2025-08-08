@@ -36,11 +36,12 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?style=flat&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
-### 📊 Data & Visualization  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
 
 ### 🧰 Tools & DevOps  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -78,7 +79,7 @@
 
 ## 📌 Featured Projects
 
-### 🧠 Autonomous Self-Driving RoboTaxi – Predictive Modeling *(Jan 2024 – Present)*  
+### 🚕 Autonomous Self-Driving RoboTaxi – Predictive Modeling *(Jan 2024 – Present)*  
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
