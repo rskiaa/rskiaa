@@ -35,6 +35,9 @@
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=LangChain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?style=flat&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-005571?style=flat&logo=meta&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-03A9F4?style=flat&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-ff5f00?style=flat&logoColor=white)
 
 
 ### 📊 Data & Visualization  
