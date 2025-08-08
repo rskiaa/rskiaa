@@ -79,7 +79,7 @@
 ## 📌 Featured Projects
 
 - 🔗 [**Gamma Portfolio Site**](https://autonomous-driving-innov-d7ai06c.gamma.site/ashutoshkumar) – Interactive portfolio covering ADAS & ML projects
-- 🧪 [**Autonomous Testing Frameworks**](https://github.com/rskiaa/gamma-site) ** – Automates simulation validation using ML & GenAI
+- 🧪 [**Autonomous Testing Frameworks**](https://github.com/rskiaa/gamma-site) – Automates simulation validation using ML & GenAI
 - 📊 **Perception–Prediction Root Cause Analysis** *(internal)* – Event-based KPI tracking & root cause debugging at scale
 
 ---
