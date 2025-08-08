@@ -1,5 +1,5 @@
 <h1 align="center">Ashutosh Kumar</h1>
-<h3 align="center">AI/ML Engineer | Autonomous Driving Expert | Python & GenAI Innovator</h3>
+<h3 align="center">AI/ML Engineer | Python Automation & GenAI Innovator</h3>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58D68D&center=true&vCenter=true&width=1000&lines=Crafting+GenAI-powered+robotics+where+attention+drives+intelligence.;Designing+AI+systems+that+see%2C+adapt%2C+and+act+with+precision.;Because+in+the+world+of+intelligent+machines%2C+attention+changes+everything.">
 </div>
