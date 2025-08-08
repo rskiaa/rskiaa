@@ -1,46 +1,48 @@
 <h1 align="center">Ashutosh Kumar</h1>
 <h3 align="center">AI/ML Engineer | Autonomous Driving Expert | Python & GenAI Innovator</h3>
-<p align="center"><i>Building safer, smarter, and scalable AI systems for the future of mobility.</i></p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58D68D&center=true&vCenter=true&width=1000&lines=Crafting+GenAI-powered+robotics+where+attention+drives+intelligence.;Designing+AI+systems+that+see%2C+adapt%2C+and+act+with+precision.;Because+in+the+world+of+intelligent+machines%2C+attention+changes+everything.">
+</div>
+
 
 ---
 
 ## 🧠 About Me
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=58D68D&center=true&vCenter=true&width=1000&lines=Designing+autonomous+intelligence+like+a+GenAI+copilot...;Bridging+software+and+safety+with+data-driven+elegance.;When+deep+learning+meets+deep+understanding."/>
+</div>
 
-✨ I'm an AI/ML Engineer with **3.8+ years** of experience in building intelligent systems that power **Autonomous Driving** & **ADAS** solutions.  
-🚗 From data pipelines to perception debugging – I turn mobility challenges into intelligent, scalable solutions.
+<div align="center">
+
+🚗 **AI/ML Engineer | GenAI Innovator | Autonomous Driving Specialist**  
+🔁 3.8+ years decoding real-world mobility into safe, intelligent systems  
+🎨 Where logic meets design — powered by code, driven by imagination
 
 </div>
 
 ---
 
-### 👨‍💻 Expertise Snapshot
-
-| 🔧 Domain Focus | 🧠 Technical Skills | 🚀 Applied Use Cases |
-|----------------|--------------------|----------------------|
-| Autonomous Driving & ADAS | Python, PyTorch, OpenCV, CNN, LSTM, MARL | Vehicle prediction, hazard detection, simulation |
-| AI-Enhanced Validation | GenAI (OpenAI, LangChain, RAG), Root Cause Analysis | Auto-reporting, scenario summarization, perception audit |
-| Data Analysis & Testing | A/B Testing, Hypothesis Testing, Power BI | KPI dashboards, live model monitoring, decision support |
-
----
-
-### 🧩 Specialized In:
-- 🧪 **Scenario Generation** & Simulation Pipelines  
-- 🧠 **Predictive Modeling** using LSTM, MARL  
-- 🖼️ **Synthetic Data Generation** using OpenCV, CNNs  
-- 🤖 **GenAI Integration** with LangChain & LLMs for auto-documentation & simulation summaries  
-- 📊 **Live KPI Dashboards** & Evaluation using Power BI and statistical testing
-
----
+### 🚀 Areas I Excel At
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%2FML-Expertise-informational?style=for-the-badge&logo=python&logoColor=white&color=blue"/>
-  <img src="https://img.shields.io/badge/Autonomous%20Driving-3.8%2B%20Years-green?style=for-the-badge&logo=car&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GenAI%20%26%20LLMs-LangChain%20%7C%20OpenAI-purple?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/KPI%20Dashboards-Power%20BI%20%7C%20A%2FB%20Testing-yellow?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Autonomous%20Driving-Level%201%E2%80%935-blue?style=for-the-badge&logo=tesla&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scenario%20Automation-Real%20to%20Synthetic-8E44AD?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LSTM%20%7C%20MARL-Predictive%20Models-F39C12?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GenAI%20Workflows-OpenAI%20%7C%20LangChain-2ECC71?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-Auto%20Summarization-34495E?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KPI%20Dashboards-A%2FB%20%7C%20Hypothesis%20Testing-F1C40F?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
+---
+
+### 🤖 My Approach to AI (the GenAI way)
+
+- 🔬 See **patterns** others miss — from perception anomalies to prediction failures  
+- 🛠️ Engineer **context-aware GenAI tools** to automate scenario analysis, simulations & reporting  
+- 🎯 Focus on **explainability, safety, and human-centric design**  
+- 📐 Merge **design thinking + ML** to ship impactful, scalable solutions  
+- 🪄 Turn logs, metrics, and raw data into **dynamic dashboards & summaries** — just like a GenAI copilot would
 ---
 ## 📫 Let's Connect
 
