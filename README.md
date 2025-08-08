@@ -78,6 +78,26 @@
 
 ## 📌 Featured Projects
 
+- 🧠 **Autonomous Self-Driving RoboTaxi – Predictive Modeling** *(Jan 2024 – Present)*  
+  <p>
+    <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+    <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=LangChain&logoColor=white"/>
+  </p>
+
+  Developed predictive models using LSTM to forecast vehicle trajectory, behavior, and crossing risks.  
+  Implemented risk scoring using sliding windows and time-shifted prediction for early hazard detection.  
+  Built a KPI evaluation pipeline with over 1000+ simulation events using precision, recall, and event metrics.  
+  Integrated GenAI (OpenAI, LangChain) to auto-generate simulation summaries and reduce manual effort.  
+  Built an interactive dashboard using Streamlit and Power BI for model version comparison and debugging.
+
+---
+
 - 🔗 [**Gamma Portfolio Site**](https://autonomous-driving-innov-d7ai06c.gamma.site/ashutoshkumar)  
   <p>
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
