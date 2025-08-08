@@ -55,7 +55,7 @@
 </p>
 
 ---
-<h2 align="center">📫 Let’s Connect — Let's Build Something Intelligent Together</h2>
+<h2 align="center">📫 Let’s Connect — Build Something Intelligent Together</h2>
 
 <p align="center" style="margin-top: 20px;">
   <a href="https://www.linkedin.com/in/ashutoshrskiaa">
@@ -66,12 +66,12 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" height="35"/>
   </a>&nbsp;&nbsp;
   
+  <a href="https://autonomous-driving-innov-d7ai06c.gamma.site/ashutoshkumar">
+  <img src="https://img.shields.io/badge/Portfolio-76B900?style=plastic&logo=About.me&logoColor=white" height="35"/>
+</a>&nbsp;&nbsp;
+
   <a href="https://github.com/rskiaa">
     <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" height="35"/>
-  </a>&nbsp;&nbsp;
-  
-  <a href="https://autonomous-driving-innov-d7ai06c.gamma.site/ashutoshkumar">
-    <img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=plastic&logo=About.me&logoColor=white" height="35"/>
   </a>&nbsp;&nbsp;
   
   <a href="https://leetcode.com/u/Ashutoshrskiaa/">
