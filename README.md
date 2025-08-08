@@ -15,11 +15,12 @@
 
 <div align="center">
 
-🚗 **AI/ML Engineer | GenAI Specialist | Robotics & Autonomous Systems Expert**
-🔁 3.8+ years decoding real-world mobility into safe, intelligent systems  
-🎨 Where logic meets design — powered by code, driven by imagination
+🚗 **AI/ML Engineer&nbsp;&nbsp;|&nbsp;&nbsp;GenAI Specialist&nbsp;&nbsp;|&nbsp;&nbsp;Robotics & Autonomous Systems Expert**  
+🧠 **3.8+ years** decoding real-world complexity into safe, intelligent, and scalable systems  
+🎨 Where **logic meets design** — powered by code, driven by imagination ✨
 
 </div>
+
 
 ---
 
