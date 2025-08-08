@@ -90,13 +90,26 @@
     <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=LangChain&logoColor=white"/>
   </p>
 
-  Developed predictive models using LSTM to forecast vehicle trajectory, behavior, and crossing risks.  
-  Implemented risk scoring using sliding windows and time-shifted prediction for early hazard detection.  
-  Built a KPI evaluation pipeline with over 1000+ simulation events using precision, recall, and event metrics.  
-  Integrated GenAI (OpenAI, LangChain) to auto-generate simulation summaries and reduce manual effort.  
-  Built an interactive dashboard using Streamlit and Power BI for model version comparison and debugging.
+  - 🔮 Developed predictive models using **LSTM** to forecast:
+  - Vehicle trajectory
+  - Driver behavior
+  - Pedestrian/crossing risks
 
----
+- ⚠️ Implemented **risk scoring mechanisms** using:
+  - Sliding time windows
+  - Time-shifted prediction windows for early hazard detection
+
+- 📊 Built a comprehensive **KPI evaluation pipeline** across 1000+ simulation events using:
+  - Precision, recall, and event-level accuracy metrics
+
+- 🤖 Integrated **GenAI (OpenAI, LangChain)** to:
+  - Auto-generate simulation summaries
+  - Reduce manual log analysis and review time
+
+- 📈 Created an interactive **Streamlit dashboard** and **Power BI reports** for:
+  - Model version comparison
+  - Root cause analysis and debugging of ADAS components
+
 
 - 🔗 [**Gamma Portfolio Site**](https://autonomous-driving-innov-d7ai06c.gamma.site/ashutoshkumar)  
   <p>
