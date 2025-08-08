@@ -78,10 +78,53 @@
 
 ## 📌 Featured Projects
 
-- 🔗 [**Gamma Portfolio Site**](https://autonomous-driving-innov-d7ai06c.gamma.site/ashutoshkumar) – Interactive portfolio covering ADAS & ML projects
-- 🧪 [**Autonomous Testing Frameworks**](https://github.com/rskiaa/gamma-site) – Automates simulation validation using ML & GenAI
-- 📊 **Perception–Prediction Root Cause Analysis** *(internal)* – Event-based KPI tracking & root cause debugging at scale
+- 🔗 [**Gamma Portfolio Site**](https://autonomous-driving-innov-d7ai06c.gamma.site/ashutoshkumar)  
+  <p>
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gamma-00C853?style=flat&logoColor=white"/>
+  </p>
+  A dynamic portfolio to showcase AI/ML and autonomous driving projects, including interactive demos and visual insights.
 
+- 🧪 [**Autonomous Testing Frameworks**](https://github.com/rskiaa/gamma-site) *(Work in Progress)*  
+  <p>
+    <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+    <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=flat&logo=huggingface&logoColor=black"/>
+  </p>
+  AI-powered framework for validating RoboTaxi simulation data using ML pipelines and GenAI-based log analysis.
+
+- 📊 **Perception–Prediction Root Cause Analysis** *(Internal/Private)*  
+  <p>
+    <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  </p>
+  Built root cause analytics pipelines using Power BI & Python for debugging ML perception/prediction modules.
+
+- 📈 [**Autonomous Driving KPI Dashboard**](https://github.com/rskiaa/robo-dashboard)  
+  <p>
+    <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"/>
+  </p>
+  Interactive dashboard for visualizing ADAS model KPIs across simulation logs with filtering and GenAI summary mock.
+
+- 🧠 **Trajectory Forecasting & MARL Simulator** *(Conceptual Project)*  
+  <p>
+    <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LSTM-6A1B9A?style=flat&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Reinforcement--Learning-004D40?style=flat&logoColor=white"/>
+  </p>
+  Used LSTM and MARL to forecast trajectories and simulate multi-agent behavior in real-world traffic environments.
+  
 ---
 
 > 🚀 I'm passionate about building intelligent transport systems where safety, software, and AI converge.
