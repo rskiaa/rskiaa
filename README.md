@@ -81,7 +81,7 @@
 
 
 ---
-## ⚙️ My Healing Tech Stack
+## ⚙️ Tech Stack
 
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=76B900&vCenter=true&width=650&lines=My+Healing+Tech+Stack;Tools+chosen+with+attention+and+intention;Built+for+safe%2C+scalable%2C+soulful+AI" alt="Typing SVG" />
