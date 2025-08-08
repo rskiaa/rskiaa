@@ -6,12 +6,40 @@
 
 ## 🧠 About Me
 
-- 🤖 3.8+ years of experience in **AI/ML**, **ADAS**, and **Autonomous Driving Validation**
-- 🔍 Specialized in:
-  - Scenario generation, simulation pipelines & root cause analysis
-  - Predictive modeling (LSTM, MARL) & synthetic data generation (OpenCV, CNNs)
-  - GenAI (LLMs, LangChain, RAG) for automating document & scenario workflows
-- 📊 Hands-on with A/B testing, hypothesis testing, and live KPI dashboards (Power BI)
+<div align="center">
+
+✨ I'm an AI/ML Engineer with **3.8+ years** of experience in building intelligent systems that power **Autonomous Driving** & **ADAS** solutions.  
+🚗 From data pipelines to perception debugging – I turn mobility challenges into intelligent, scalable solutions.
+
+</div>
+
+---
+
+### 👨‍💻 Expertise Snapshot
+
+| 🔧 Domain Focus | 🧠 Technical Skills | 🚀 Applied Use Cases |
+|----------------|--------------------|----------------------|
+| Autonomous Driving & ADAS | Python, PyTorch, OpenCV, CNN, LSTM, MARL | Vehicle prediction, hazard detection, simulation |
+| AI-Enhanced Validation | GenAI (OpenAI, LangChain, RAG), Root Cause Analysis | Auto-reporting, scenario summarization, perception audit |
+| Data Analysis & Testing | A/B Testing, Hypothesis Testing, Power BI | KPI dashboards, live model monitoring, decision support |
+
+---
+
+### 🧩 Specialized In:
+- 🧪 **Scenario Generation** & Simulation Pipelines  
+- 🧠 **Predictive Modeling** using LSTM, MARL  
+- 🖼️ **Synthetic Data Generation** using OpenCV, CNNs  
+- 🤖 **GenAI Integration** with LangChain & LLMs for auto-documentation & simulation summaries  
+- 📊 **Live KPI Dashboards** & Evaluation using Power BI and statistical testing
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%2FML-Expertise-informational?style=for-the-badge&logo=python&logoColor=white&color=blue"/>
+  <img src="https://img.shields.io/badge/Autonomous%20Driving-3.8%2B%20Years-green?style=for-the-badge&logo=car&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GenAI%20%26%20LLMs-LangChain%20%7C%20OpenAI-purple?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KPI%20Dashboards-Power%20BI%20%7C%20A%2FB%20Testing-yellow?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
 ---
 ## 📫 Let's Connect
