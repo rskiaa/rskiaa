@@ -1,7 +1,7 @@
 <h1 align="center">Ashutosh Kumar</h1>
 <h3 align="center">AI/ML Engineer | Python Automation & GenAI Innovator</h3>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58D68D&center=true&vCenter=true&width=1000&lines=Crafting+GenAI-powered+robotics+where+attention+drives+intelligence.;Designing+AI+systems+that+see%2C+adapt%2C+and+act+with+precision.;Because+in+the+world+of+intelligent+machines%2C+attention+changes+everything.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=76B900&center=true&vCenter=true&width=1000&lines=Crafting+GenAI-powered+robotics+where+attention+drives+intelligence.;Designing+AI+systems+that+see%2C+adapt%2C+and+act+with+precision.;Because+in+the+world+of+intelligent+machines%2C+attention+changes+everything.">
 </div>
 
 
@@ -10,7 +10,7 @@
 ## 🧠 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=58D68D&center=true&vCenter=true&width=1000&lines=Designing+autonomous+intelligence+like+a+GenAI+copilot...;Bridging+software+and+safety+with+data-driven+elegance.;When+deep+learning+meets+deep+understanding."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=76B900&center=true&vCenter=true&width=1000&lines=Designing+autonomous+intelligence+like+a+GenAI+copilot...;Bridging+software+and+safety+with+data-driven+elegance.;When+deep+learning+meets+deep+understanding."/>
 </div>
 
 <div align="center">
@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=800&height=40&lines=✨+Designing+systems+with+intelligence+and+intuition.;🧠+Where+AI+meets+creativity%2C+magic+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=76B900&center=true&vCenter=true&width=800&height=40&lines=✨+Designing+systems+with+intelligence+and+intuition.;🧠+Where+AI+meets+creativity%2C+magic+
 
 
 
