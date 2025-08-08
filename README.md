@@ -27,7 +27,7 @@
 <h2 align="center">🌐 My AI Canvas — Intelligence Designed with Attention to Detail 🎯</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🤖 Autonomous Driving-Level 1–5-004080?style=plastic&logo=tesla&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🤖 Autonomous Driving-ADAS Level 1–5-004080?style=plastic&logo=tesla&logoColor=white"/>
   <img src="https://img.shields.io/badge/🔄 Scenario Automation-Real → Synthetic-8e44ad?style=plastic&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/🧠 LSTM + MARL-Cognitive Prediction-e67e22?style=plastic&logo=pytorch&logoColor=white"/>
 </p>
