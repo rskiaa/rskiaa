@@ -24,35 +24,61 @@
 
 ---
 
-### 🚀 Areas I Excel At
+<h2 align="center">🌐 My AI Canvas — Intelligence Designed with Attention to Detail 🎯</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Autonomous%20Driving-Level%201%E2%80%935-blue?style=for-the-badge&logo=tesla&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scenario%20Automation-Real%20to%20Synthetic-8E44AD?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LSTM%20%7C%20MARL-Predictive%20Models-F39C12?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GenAI%20Workflows-OpenAI%20%7C%20LangChain-2ECC71?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG%20Pipelines-Auto%20Summarization-34495E?style=for-the-badge&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/KPI%20Dashboards-A%2FB%20%7C%20Hypothesis%20Testing-F1C40F?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/🤖 Autonomous Driving-Level 1–5-004080?style=plastic&logo=tesla&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🔄 Scenario Automation-Real → Synthetic-8e44ad?style=plastic&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🧠 LSTM + MARL-Cognitive Prediction-e67e22?style=plastic&logo=pytorch&logoColor=white"/>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/⚙️ GenAI Pipelines-OpenAI × LangChain-1abc9c?style=plastic&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📚 RAG Flows-Auto Summarization-34495e?style=plastic&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📊 KPI Dashboards-A/B Insights + Testing-f1c40f?style=plastic&logo=powerbi&logoColor=black"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=800&height=40&lines=✨+Designing+systems+with+intelligence+and+intuition.;🧠+Where+AI+meets+creativity%2C+magic+
+
+
 
 ---
 
-### 🤖 My Approach to AI (the GenAI way)
-
-- 🔬 See **patterns** others miss — from perception anomalies to prediction failures  
-- 🛠️ Engineer **context-aware GenAI tools** to automate scenario analysis, simulations & reporting  
-- 🎯 Focus on **explainability, safety, and human-centric design**  
-- 📐 Merge **design thinking + ML** to ship impactful, scalable solutions  
-- 🪄 Turn logs, metrics, and raw data into **dynamic dashboards & summaries** — just like a GenAI copilot would
----
-## 📫 Let's Connect
+<h2 align="center">🤖 My Approach to AI — The GenAI Way</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashutoshrskiaa"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ashutoshrskiaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/rskiaa"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://autonomous-driving-innov-d7ai06c.gamma.site/ashutoshkumar"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  🔍 See <strong>patterns</strong> others miss — from perception anomalies to prediction failures  
+  <br>⚙️ Build <strong>context-aware GenAI tools</strong> for simulations, analysis & reporting  
+  <br>🎯 Focus on <strong>explainability, safety, and human-centric design</strong>  
+  <br>🎨 Fuse <strong>design thinking + machine learning</strong> to deliver scalable, intuitive solutions  
+  <br>🧙‍♂️ Transform logs & metrics into <strong>dynamic dashboards</strong> — like a GenAI copilot would  
 </p>
+
+---
+<h2 align="center">📫 Let’s Connect — Let's Build Something Intelligent Together</h2>
+
+<p align="center" style="margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/ashutoshrskiaa">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" height="35"/>
+  </a>&nbsp;&nbsp;
+  
+  <a href="mailto:ashutoshrskiaa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" height="35"/>
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://github.com/rskiaa">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" height="35"/>
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://autonomous-driving-innov-d7ai06c.gamma.site/ashutoshkumar">
+    <img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=plastic&logo=About.me&logoColor=white" height="35"/>
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://leetcode.com/u/Ashutoshrskiaa/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=black" height="35"/>
+  </a>
+</p>
+
 
 ---
 ## ⚙️ Tech Stack
