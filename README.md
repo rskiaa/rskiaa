@@ -164,13 +164,6 @@
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 **Extra Mile Award** – Delivered ML solutions boosting ADAS prediction accuracy by 40%
-- 🥈 **Project Excellence Award** – Reduced debugging time and improved delivery timelines
-
----
-
 ## 📜 Certifications & Learning Milestones  
 
 <table>
@@ -216,6 +209,29 @@
 </td>
 </tr>
 </table>
+
+---
+
+## 🏆 Achievements
+
+<div style="position: relative; margin-left: 30px; padding-left: 20px; border-left: 3px solid #76B900;">
+
+  <!-- Achievement 1 -->
+  <div style="position: relative; margin-bottom: 25px;">
+    <div style="position: absolute; left: -35px; top: 0; width: 20px; height: 20px; background-color: #76B900; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 14px;">🥇</div>
+    <strong>Extra Mile Award</strong><br>
+    <small>Delivered ML solutions boosting ADAS prediction accuracy by <strong>40%</strong>.</small>
+  </div>
+
+  <!-- Achievement 2 -->
+  <div style="position: relative; margin-bottom: 25px;">
+    <div style="position: absolute; left: -35px; top: 0; width: 20px; height: 20px; background-color: #FFD43B; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 14px;">🥈</div>
+    <strong>Project Excellence Award</strong><br>
+    <small>Reduced debugging time and improved delivery timelines.</small>
+  </div>
+
+</div>
+
 
 ---
 
