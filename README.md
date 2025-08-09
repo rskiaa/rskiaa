@@ -105,58 +105,58 @@
 <tr style="height: 500px;">
 
 <!-- Column 1 -->
-<td style="position: relative; height: 500px; vertical-align: top;">
-<div style="position: absolute; bottom: 0; width: 100%; display: flex; flex-direction: column; align-items: center; transform: scale(1.3); transform-origin: bottom;">
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><br>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=LangChain&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black"/><br>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge&logo=meta&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Pinecone-03A9F4?style=for-the-badge&logo=pinecone&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Weaviate-ff5f00?style=for-the-badge&logo=weaviate&logoColor=white"/>
-<div style="height: 8px; width: 90%; background-color: #76B900; margin-top: 6px;"></div>
+<td style="height: 500px; display: flex; flex-direction: column; justify-content: flex-end; align-items: center;">
+<div style="transform: scale(1.3); transform-origin: bottom; display: flex; flex-direction: column; align-items: center; gap: 6px;">
+<img style="border-radius: 6px; box-shadow: 0px 3px 6px rgba(0,0,0,0.2);" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img style="border-radius: 6px; box-shadow: 0px 3px 6px rgba(0,0,0,0.2);" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img style="border-radius: 6px; box-shadow: 0px 3px 6px rgba(0,0,0,0.2);" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img style="border-radius: 6px; box-shadow: 0px 3px 6px rgba(0,0,0,0.2);" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img style="border-radius: 6px; box-shadow: 0px 3px 6px rgba(0,0,0,0.2);" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img style="border-radius: 6px; box-shadow: 0px 3px 6px rgba(0,0,0,0.2);" src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=LangChain&logoColor=white"/>
+<img style="border-radius: 6px; box-shadow: 0px 3px 6px rgba(0,0,0,0.2);" src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img style="border-radius: 6px; box-shadow: 0px 3px 6px rgba(0,0,0,0.2);" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img style="border-radius: 6px; box-shadow: 0px 3px 6px rgba(0,0,0,0.2);" src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge&logo=meta&logoColor=white"/>
+<img style="border-radius: 6px; box-shadow: 0px 3px 6px rgba(0,0,0,0.2);" src="https://img.shields.io/badge/Pinecone-03A9F4?style=for-the-badge&logo=pinecone&logoColor=white"/>
+<img style="border-radius: 6px; box-shadow: 0px 3px 6px rgba(0,0,0,0.2);" src="https://img.shields.io/badge/Weaviate-ff5f00?style=for-the-badge&logo=weaviate&logoColor=white"/>
 </div>
+<div style="height: 10px; width: 92%; background-color: #76B900; margin-top: 8px; box-shadow: 0px -3px 5px rgba(0,0,0,0.3);"></div>
 </td>
 
 <!-- Column 2 -->
-<td style="position: relative; height: 500px; vertical-align: top;">
-<div style="position: absolute; bottom: 0; width: 100%; display: flex; flex-direction: column; align-items: center; transform: scale(1.3); transform-origin: bottom;">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/><br>
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<div style="height: 8px; width: 90%; background-color: #76B900; margin-top: 6px;"></div>
+<td style="height: 500px; display: flex; flex-direction: column; justify-content: flex-end; align-items: center;">
+<div style="transform: scale(1.3); transform-origin: bottom; display: flex; flex-direction: column; align-items: center; gap: 6px;">
+<img style="border-radius: 6px; box-shadow: 0px 3px 6px rgba(0,0,0,0.2);" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img style="border-radius: 6px; box-shadow: 0px 3px 6px rgba(0,0,0,0.2);" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img style="border-radius: 6px; box-shadow: 0px 3px 6px rgba(0,0,0,0.2);" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img style="border-radius: 6px; box-shadow: 0px 3px 6px rgba(0,0,0,0.2);" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img style="border-radius: 6px; box-shadow: 0px 3px 6px rgba(0,0,0,0.2);" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </div>
+<div style="height: 10px; width: 92%; background-color: #76B900; margin-top: 8px; box-shadow: 0px -3px 5px rgba(0,0,0,0.3);"></div>
 </td>
 
 <!-- Column 3 -->
-<td style="position: relative; height: 500px; vertical-align: top;">
-<div style="position: absolute; bottom: 0; width: 100%; display: flex; flex-direction: column; align-items: center; transform: scale(1.3); transform-origin: bottom;">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/><br>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/CI%2FCD-2C3E50?style=for-the-badge&logo=githubactions&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<div style="height: 8px; width: 90%; background-color: #76B900; margin-top: 6px;"></div>
+<td style="height: 500px; display: flex; flex-direction: column; justify-content: flex-end; align-items: center;">
+<div style="transform: scale(1.3); transform-origin: bottom; display: flex; flex-direction: column; align-items: center; gap: 6px;">
+<img style="border-radius: 6px; box-shadow: 0px 3px 6px rgba(0,0,0,0.2);" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img style="border-radius: 6px; box-shadow: 0px 3px 6px rgba(0,0,0,0.2);" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img style="border-radius: 6px; box-shadow: 0px 3px 6px rgba(0,0,0,0.2);" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img style="border-radius: 6px; box-shadow: 0px 3px 6px rgba(0,0,0,0.2);" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img style="border-radius: 6px; box-shadow: 0px 3px 6px rgba(0,0,0,0.2);" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img style="border-radius: 6px; box-shadow: 0px 3px 6px rgba(0,0,0,0.2);" src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+<img style="border-radius: 6px; box-shadow: 0px 3px 6px rgba(0,0,0,0.2);" src="https://img.shields.io/badge/CI%2FCD-2C3E50?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img style="border-radius: 6px; box-shadow: 0px 3px 6px rgba(0,0,0,0.2);" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </div>
+<div style="height: 10px; width: 92%; background-color: #76B900; margin-top: 8px; box-shadow: 0px -3px 5px rgba(0,0,0,0.3);"></div>
 </td>
 
 <!-- Column 4 -->
-<td style="position: relative; height: 500px; vertical-align: top;">
-<div style="position: absolute; bottom: 0; width: 100%; display: flex; flex-direction: column; align-items: center; transform: scale(1.3); transform-origin: bottom;">
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<div style="height: 8px; width: 90%; background-color: #76B900; margin-top: 6px;"></div>
+<td style="height: 500px; display: flex; flex-direction: column; justify-content: flex-end; align-items: center;">
+<div style="transform: scale(1.3); transform-origin: bottom; display: flex; flex-direction: column; align-items: center; gap: 6px;">
+<img style="border-radius: 6px; box-shadow: 0px 3px 6px rgba(0,0,0,0.2);" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+<img style="border-radius: 6px; box-shadow: 0px 3px 6px rgba(0,0,0,0.2);" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img style="border-radius: 6px; box-shadow: 0px 3px 6px rgba(0,0,0,0.2);" src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </div>
+<div style="height: 10px; width: 92%; background-color: #76B900; margin-top: 8px; box-shadow: 0px -3px 5px rgba(0,0,0,0.3);"></div>
 </td>
 
 </tr>
