@@ -331,4 +331,4 @@ A lightweight visualization tool for simulation KPIs like precision, recall, and
 
 Built simulation environments where multiple agents coordinate decisions using reinforcement learning. Used LSTM for forecasting vehicle/pedestrian paths under dynamic urban conditions.
 
-> 🚀 I'm passionate about building intelligent transport systems where safety, software, and AI converge.
+> 🚀 I'm passionate about building intelligent systems where safety, software, and AI converge.
