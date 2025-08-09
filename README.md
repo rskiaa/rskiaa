@@ -164,7 +164,7 @@
 
 ---
 
-## 📜 Certifications & Learning Milestones  
+## 📜 Certifications
 
 <table>
 <tr>
