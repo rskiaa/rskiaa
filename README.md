@@ -102,9 +102,11 @@
 </tr>
 
 <!-- Badges Row -->
-<tr style="height: 500px; vertical-align: bottom;">
-<td style="position: relative; padding: 0; height: 500px;">
-<div style="position: absolute; bottom: 10px; width: 100%; display: flex; flex-direction: column; align-items: center; transform: scale(1.2); transform-origin: bottom;">
+<tr style="height: 500px; vertical-align: top;">
+
+<!-- AI/ML -->
+<td style="position: relative; height: 500px;">
+<div style="position: absolute; bottom: 0; width: 100%; display: flex; flex-direction: column; align-items: center; transform: scale(1.2); transform-origin: bottom;">
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/><br>
@@ -120,8 +122,9 @@
 </div>
 </td>
 
-<td style="position: relative; padding: 0; height: 500px;">
-<div style="position: absolute; bottom: 10px; width: 100%; display: flex; flex-direction: column; align-items: center; transform: scale(1.2); transform-origin: bottom;">
+<!-- Data & Visualization -->
+<td style="position: relative; height: 500px;">
+<div style="position: absolute; bottom: 0; width: 100%; display: flex; flex-direction: column; align-items: center; transform: scale(1.2); transform-origin: bottom;">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/><br>
@@ -131,8 +134,9 @@
 </div>
 </td>
 
-<td style="position: relative; padding: 0; height: 500px;">
-<div style="position: absolute; bottom: 10px; width: 100%; display: flex; flex-direction: column; align-items: center; transform: scale(1.2); transform-origin: bottom;">
+<!-- Tools & DevOps -->
+<td style="position: relative; height: 500px;">
+<div style="position: absolute; bottom: 0; width: 100%; display: flex; flex-direction: column; align-items: center; transform: scale(1.2); transform-origin: bottom;">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/><br>
@@ -145,8 +149,9 @@
 </div>
 </td>
 
-<td style="position: relative; padding: 0; height: 500px;">
-<div style="position: absolute; bottom: 10px; width: 100%; display: flex; flex-direction: column; align-items: center; transform: scale(1.2); transform-origin: bottom;">
+<!-- Cloud Platforms -->
+<td style="position: relative; height: 500px;">
+<div style="position: absolute; bottom: 0; width: 100%; display: flex; flex-direction: column; align-items: center; transform: scale(1.2); transform-origin: bottom;">
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
