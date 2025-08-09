@@ -171,25 +171,54 @@
 
 ---
 
-## 📜 Certifications & Learning Milestones
+## 📜 Certifications & Learning Milestones  
 
-| Certificate | Issued By | Credential |
-|------------|-----------|------------|
-| 🧠 **Machine Learning with PyTorch & Scikit-learn** | LinkedIn Learning | [View Certificate](https://www.linkedin.com/learning/certificates/e5dbdd80fcf133153b9b7cfb1d3040a90374849d9f9dfedb3440b42cb830062d) |
-| 🐍 **Python for Data Science** | IBM via Credly | [View Badge](https://www.credly.com/badges/fddef4a6-142f-43e3-ab50-f82ee36d169a/public_url) |
-| 🤖 **Generative AI Essentials** | LinkedIn Learning | [View Certificate](https://www.linkedin.com/learning/certificates/80b734a790bd434390adc546f888b5c2d64c5b0a40f33183bb756387a7527002) |
-| 🌐 **Elements of AI** | University of Helsinki & Reaktor | [Verify](https://certificates.mooc.fi/validate/fhhzj5vl5a) |
-| 📊 **Data Analytics Essentials** | LinkedIn Learning | [View Certificate](https://www.linkedin.com/learning/certificates/4ef1db1672430b21353d27e575d38a71c9fef4520e676356752b3ffe8846b312) |
+<table>
+<tr>
+<th>🧠 AI / ML</th>
+<th>🐍 Python</th>
+<th>☁️ Cloud / NVIDIA</th>
+<th>📊 Data</th>
+</tr>
+
+<tr>
+<td align="center">
+<a href="https://www.linkedin.com/learning/certificates/e5dbdd80fcf133153b9b7cfb1d3040a90374849d9f9dfedb3440b42cb830062d">
+<img src="https://img.shields.io/badge/Machine%20Learning-PyTorch%20%26%20Sklearn-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+</a><br>
+<a href="https://www.linkedin.com/learning/certificates/80b734a790bd434390adc546f888b5c2d64c5b0a40f33183bb756387a7527002">
+<img src="https://img.shields.io/badge/Generative%20AI%20Essentials-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+</a><br>
+<a href="https://certificates.mooc.fi/validate/fhhzj5vl5a">
+<img src="https://img.shields.io/badge/Elements%20of%20AI-Helsinki-000000?style=for-the-badge">
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.credly.com/badges/fddef4a6-142f-43e3-ab50-f82ee36d169a/public_url">
+<img src="https://img.shields.io/badge/Python%20for%20Data%20Science-IBM-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+</a>
+</td>
+
+<td align="center">
+<a href="https://learn.nvidia.com/courses/progress?course_id=course-v1:DLI+S-OV-38+V1">
+<img src="https://img.shields.io/badge/DLI%20NVIDIA-Overview-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+</a><br>
+<a href="https://learn.nvidia.com/courses/progress?course_id=course-v1:DLI+S-FX-07+V1">
+<img src="https://img.shields.io/badge/DLI%20NVIDIA-FX%20Foundation-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.linkedin.com/learning/certificates/4ef1db1672430b21353d27e575d38a71c9fef4520e676356752b3ffe8846b312">
+<img src="https://img.shields.io/badge/Data%20Analytics%20Essentials-LinkedIn%20Learning-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-PyTorch%20%26%20Scikit--learn-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python%20for%20Data%20Science-IBM-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Generative%20AI%20Essentials-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elements%20of%20AI-Helsinki-000000?style=for-the-badge&logo=mooc&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Analytics%20Essentials-LinkedIn%20Learning-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</p>
 
 ## 📌 Featured Projects
 
