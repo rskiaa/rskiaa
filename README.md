@@ -205,6 +205,9 @@
 <td align="center">
 <a href="https://www.linkedin.com/learning/certificates/4ef1db1672430b21353d27e575d38a71c9fef4520e676356752b3ffe8846b312">
 <img src="https://img.shields.io/badge/Data%20Analytics%20Essentials-LinkedIn%20Learning-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a><br>
+<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_B46hDMRpHMRmPYadp_1747569352325_completion_certificate.pdf">
+<img src="https://img.shields.io/badge/Virtual%20Experience%20Program-Deloitte%20Australia-005A9C?style=for-the-badge&logo=deloitte&logoColor=white">
 </a>
 </td>
 </tr>
