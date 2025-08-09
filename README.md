@@ -91,55 +91,75 @@
 
 ---
 
-### 🧠 AI/ML & GenAI  
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=LangChain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pinecone-03A9F4?style=for-the-badge&logo=pinecone&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Weaviate-ff5f00?style=for-the-badge&logo=weaviate&logoColor=white"/>
-</p>
+## ⚙️ My Healing Tech Stack  
+<em>🧠 A curated collection of tools — stacked like an NVIDIA-themed library of AI wisdom.</em>  
 
-<hr style="border: 0; height: 1px; background: #ddd;">
+---
 
-### 📊 Data & Visualization  
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
+<table style="border-collapse: collapse; width: 100%; table-layout: fixed; text-align: center;">
 
-<hr style="border: 0; height: 1px; background: #ddd;">
+<!-- Headings Row -->
+<tr>
+<th style="padding: 10px; border-bottom: 3px solid #76B900; width: 25%;">🧠 AI/ML & GenAI</th>
+<th style="padding: 10px; border-bottom: 3px solid #76B900; width: 25%;">📊 Data & Visualization</th>
+<th style="padding: 10px; border-bottom: 3px solid #76B900; width: 25%;">🧰 Tools & DevOps</th>
+<th style="padding: 10px; border-bottom: 3px solid #76B900; width: 25%;">☁️ Cloud Platforms</th>
+</tr>
 
-### 🧰 Tools & DevOps  
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-2C3E50?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
+<!-- Badges Row (Books on Shelves) -->
+<tr style="height: 500px;">
+<td style="padding: 10px; display: flex; flex-direction: column; justify-content: flex-end; align-items: center;">
+<div style="transform: scale(1.2); transform-origin: bottom;">
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=LangChain&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black"/><br>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge&logo=meta&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Pinecone-03A9F4?style=for-the-badge&logo=pinecone&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Weaviate-ff5f00?style=for-the-badge&logo=weaviate&logoColor=white"/>
+</div>
+<div style="height: 6px; width: 85%; background-color: #76B900; margin-top: 5px;"></div>
+</td>
 
-<hr style="border: 0; height: 1px; background: #ddd;">
+<td style="padding: 10px; display: flex; flex-direction: column; justify-content: flex-end; align-items: center;">
+<div style="transform: scale(1.2); transform-origin: bottom;">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/><br>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</div>
+<div style="height: 6px; width: 85%; background-color: #76B900; margin-top: 5px;"></div>
+</td>
 
-### ☁️ Cloud Platforms  
-<p align="left">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-</p>
+<td style="padding: 10px; display: flex; flex-direction: column; justify-content: flex-end; align-items: center;">
+<div style="transform: scale(1.2); transform-origin: bottom;">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/><br>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/CI%2FCD-2C3E50?style=for-the-badge&logo=githubactions&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</div>
+<div style="height: 6px; width: 85%; background-color: #76B900; margin-top: 5px;"></div>
+</td>
 
+<td style="padding: 10px; display: flex; flex-direction: column; justify-content: flex-end; align-items: center;">
+<div style="transform: scale(1.2); transform-origin: bottom;">
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+</div>
+<div style="height: 6px; width: 85%; background-color: #76B900; margin-top: 5px;"></div>
+</td>
+</tr>
+</table>
 ---
 
 ## 🏆 Achievements
