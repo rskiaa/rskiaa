@@ -271,6 +271,18 @@
 
 ---
 
+### 📊 Perception–Prediction Root Cause Analysis *(Internal Project)*
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+</p>
+
+Developed visual pipelines to isolate perception and prediction failures using sliding window analysis, risk classification, and automated root-cause correlation across multiple ADAS system versions.
+
+---
+
 ### 🔗 [Gamma Portfolio Site](https://autonomous-driving-innov-d7ai06c.gamma.site/ashutoshkumar)
 <p>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
@@ -294,18 +306,6 @@ A modern portfolio site showcasing autonomous driving and AI/ML projects with pr
 </p>
 
 A GenAI-enabled testing pipeline that automates perception/prediction validation using LLMs, visual dashboards, and scalable KPI tracking for simulation logs.
-
----
-
-### 📊 Perception–Prediction Root Cause Analysis *(Internal Project)*
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-</p>
-
-Developed visual pipelines to isolate perception and prediction failures using sliding window analysis, risk classification, and automated root-cause correlation across multiple ADAS system versions.
 
 ---
 
