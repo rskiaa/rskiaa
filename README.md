@@ -95,18 +95,18 @@
 
 <!-- Headings Row -->
 <tr>
-<th style="padding: 10px; border-bottom: 3px solid #76B900; width: 25%;">🧠 AI/ML & GenAI</th>
-<th style="padding: 10px; border-bottom: 3px solid #76B900; width: 25%;">📊 Data & Visualization</th>
-<th style="padding: 10px; border-bottom: 3px solid #76B900; width: 25%;">🧰 Tools & DevOps</th>
-<th style="padding: 10px; border-bottom: 3px solid #76B900; width: 25%;">☁️ Cloud Platforms</th>
+<th style="padding: 12px; border-bottom: 4px solid #76B900; width: 25%; font-size: 18px;">🧠 AI/ML & GenAI</th>
+<th style="padding: 12px; border-bottom: 4px solid #76B900; width: 25%; font-size: 18px;">📊 Data & Visualization</th>
+<th style="padding: 12px; border-bottom: 4px solid #76B900; width: 25%; font-size: 18px;">🧰 Tools & DevOps</th>
+<th style="padding: 12px; border-bottom: 4px solid #76B900; width: 25%; font-size: 18px;">☁️ Cloud Platforms</th>
 </tr>
 
-<!-- Badges Row -->
-<tr style="height: 500px; vertical-align: top;">
+<!-- Shelves Row -->
+<tr style="height: 500px;">
 
-<!-- AI/ML -->
-<td style="position: relative; height: 500px;">
-<div style="position: absolute; bottom: 0; width: 100%; display: flex; flex-direction: column; align-items: center; transform: scale(1.2); transform-origin: bottom;">
+<!-- Column 1 -->
+<td style="position: relative; height: 500px; vertical-align: top;">
+<div style="position: absolute; bottom: 0; width: 100%; display: flex; flex-direction: column; align-items: center; transform: scale(1.3); transform-origin: bottom;">
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/><br>
@@ -118,25 +118,25 @@
 <img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge&logo=meta&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Pinecone-03A9F4?style=for-the-badge&logo=pinecone&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Weaviate-ff5f00?style=for-the-badge&logo=weaviate&logoColor=white"/>
-<div style="height: 6px; width: 85%; background-color: #76B900; margin-top: 5px;"></div>
+<div style="height: 8px; width: 90%; background-color: #76B900; margin-top: 6px;"></div>
 </div>
 </td>
 
-<!-- Data & Visualization -->
-<td style="position: relative; height: 500px;">
-<div style="position: absolute; bottom: 0; width: 100%; display: flex; flex-direction: column; align-items: center; transform: scale(1.2); transform-origin: bottom;">
+<!-- Column 2 -->
+<td style="position: relative; height: 500px; vertical-align: top;">
+<div style="position: absolute; bottom: 0; width: 100%; display: flex; flex-direction: column; align-items: center; transform: scale(1.3); transform-origin: bottom;">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/><br>
 <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<div style="height: 6px; width: 85%; background-color: #76B900; margin-top: 5px;"></div>
+<div style="height: 8px; width: 90%; background-color: #76B900; margin-top: 6px;"></div>
 </div>
 </td>
 
-<!-- Tools & DevOps -->
-<td style="position: relative; height: 500px;">
-<div style="position: absolute; bottom: 0; width: 100%; display: flex; flex-direction: column; align-items: center; transform: scale(1.2); transform-origin: bottom;">
+<!-- Column 3 -->
+<td style="position: relative; height: 500px; vertical-align: top;">
+<div style="position: absolute; bottom: 0; width: 100%; display: flex; flex-direction: column; align-items: center; transform: scale(1.3); transform-origin: bottom;">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/><br>
@@ -145,19 +145,20 @@
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/CI%2FCD-2C3E50?style=for-the-badge&logo=githubactions&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<div style="height: 6px; width: 85%; background-color: #76B900; margin-top: 5px;"></div>
+<div style="height: 8px; width: 90%; background-color: #76B900; margin-top: 6px;"></div>
 </div>
 </td>
 
-<!-- Cloud Platforms -->
-<td style="position: relative; height: 500px;">
-<div style="position: absolute; bottom: 0; width: 100%; display: flex; flex-direction: column; align-items: center; transform: scale(1.2); transform-origin: bottom;">
+<!-- Column 4 -->
+<td style="position: relative; height: 500px; vertical-align: top;">
+<div style="position: absolute; bottom: 0; width: 100%; display: flex; flex-direction: column; align-items: center; transform: scale(1.3); transform-origin: bottom;">
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<div style="height: 6px; width: 85%; background-color: #76B900; margin-top: 5px;"></div>
+<div style="height: 8px; width: 90%; background-color: #76B900; margin-top: 6px;"></div>
 </div>
 </td>
+
 </tr>
 </table>
 
